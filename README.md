@@ -1,0 +1,2 @@
+# Parametric-Channel-Estimation-and-Design-for-Active-RIS-Assisted-Communications
+This repository contains the MATLAB simulation code for the paper:  *Parametric Channel Estimation and Design for Active-RIS-Assisted Communications"*   *Authors: [Md. Shahriar Sadid], [A. A. Nasir], [S. Al-Ahmadi ],[S. Al-Ghadhban]*   *Published in: IEEE Communications Letters, 2026*   *Link to paper: [https://doi.org/10.1109/LCOMM.2026.3711925]*
